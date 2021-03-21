@@ -7,8 +7,7 @@
     {
       "id": 1,
       "name": "Project 1"
-    },
-    ...
+    }
   ]
 ```
 
@@ -20,8 +19,7 @@
       "text": "id labore ex et quam laborum",
       "email": "Eliseo@gardner.biz",
       "issueId": 25
-    },
-    ...
+    }
   ]
 ```
 
@@ -34,7 +32,6 @@
       "resolved": true,
       "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
       "description": "quia et suscipit"
-    },
-    ...
+    }
   ]
 ```
