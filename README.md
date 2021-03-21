@@ -60,10 +60,6 @@ make deploy_artifacts # deploy the lambda packages against bucket s3://artifact-
 ```
 
 ```bash
-make deploy_artifacts # deploy the lambda packages against bucket s3://artifact-lamdas
-```
-
-```bash
 make clean # clean up your build folder
 ```
 
