@@ -75,7 +75,7 @@ make apply # perform terraform apply so deploying all the infrastructure
 make destroy # perform terraform destroy and then remove all the infrastructure
 ```
 
-## Testing the existing endpoint endpoint from cli or browser
+## Testing the existing endpoint from cli or browser
 
 After the deployment you will see as output AWS Api Gateway the base invoke url:
 
