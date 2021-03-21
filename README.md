@@ -3,7 +3,7 @@
 Simple architecture for apis use case. Below the components involved.
 
 ## Api Gateway
-Component working as interface towards the outer world and functioning as proxy to dispatch request against the lambdas correctly configured behind and attached to it via resources and method
+Component working as interface towards the outer world and functioning as proxy to dispatch request against the lambdas correctly configured behind and attached to it via resources, method and integration
 
 ## Lambdas
 - apiProjects lambda (Readme can be found [here](docs-images/api-projects/README.md))
